@@ -1,0 +1,12 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\bin\Debug\Molecular_Weighter.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\bin\Debug\Molecular_Weighter.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\Molecular_Weighter\Molecular_Weighter\obj\Debug\Molecular_Weighter.pdb
